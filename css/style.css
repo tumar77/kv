@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.box{
+    width: 100%;
+    padding:24%;
+    background: #03225e;
+
+}
+.box img{
+    position: absolute;
+    width: 60rem;
+    height: 38rem ;
+    left: 0;
+    top: 0;
+}
+.box h1{
+    font-size: 31px;
+    left: 64rem;
+    top: 1rem;
+    color: rgba(255,235,16,0.6);
+    position: absolute;
+    writing-mode: vertical-rl;
+
+    letter-spacing: -4px;
+    text-orientation: upright;
+}
